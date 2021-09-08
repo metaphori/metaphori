@@ -12,6 +12,8 @@ More information about me (including my CV) are available on [my personal web pa
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metaphori)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://stackexchange.com/users/2597317"><img src="https://stackexchange.com/users/flair/2597317.png" width="208" height="58" alt="profile for metaphori on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for metaphori on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metaphori&hide=html,css,xslt,makefile&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=metaphori)](https://github.com/ryo-ma/github-profile-trophy)
